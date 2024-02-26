@@ -1,4 +1,4 @@
-# Architecture of a FastAPI Rest API with JWT Authentication
+# FastAPI REST Architecture Example with JWT Authentication
 
 ## TECH STACK
 - Python
@@ -18,6 +18,9 @@ sudo docker-compose up -d
 ```console
 poetry install
 ```
+
+### create environment variables file
+rename **.env.example** file  into **.env**
 
 ### run server
 ```console
